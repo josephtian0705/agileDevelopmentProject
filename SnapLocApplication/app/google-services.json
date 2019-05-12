@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "871833621648",
+    "firebase_url": "https://pkaik-1ceca.firebaseio.com",
+    "project_id": "pkaik-1ceca",
+    "storage_bucket": "pkaik-1ceca.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:871833621648:android:340d1d5624ac1c3b",
+        "android_client_info": {
+          "package_name": "com.legaxus.pkaik"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "871833621648-1928prv9iaev688h78g2j37dhedlu072.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCL34RPLSsCdZraj15zZpmwNfqKN7un-D8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "871833621648-1928prv9iaev688h78g2j37dhedlu072.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
